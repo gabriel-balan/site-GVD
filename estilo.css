@@ -1,0 +1,54 @@
+body{
+	margin: 0 3%;
+}
+
+#menu{
+
+}
+
+#cabecalho{
+	background-color: #ddd;
+	margin-top: 7%;
+}
+
+#nome {
+	height: 50px;
+	margin-top: 1.5%;
+	padding: 1.5%;
+
+}
+
+#endereco {
+	float: right;
+	background-color: #ddd;
+	position: absolute;
+	top: 15%;
+	right:3%;
+	text-align: right;
+	line-height: 0px;
+	padding-right: 5px;
+}
+
+#menu{
+	position: fixed;
+	top: 0px;
+	background-color: #dda;
+	padding: 1% 5%;
+	width:84%; 
+}
+
+
+nav ul li {
+	display: inline;
+	padding: 6%;
+	font-size: 20px;
+}
+
+.conteudo{
+	height: 700px;
+	background-color: #ddd;
+}
+
+.conteudo p{
+	padding-top: 100px;
+}
